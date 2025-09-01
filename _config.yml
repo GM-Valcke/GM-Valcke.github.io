@@ -1,0 +1,9 @@
+title: My Creations
+description: A place for my games, art, character sheets and blog posts.
+
+baseurl: "" # e.g. "/my-repo" for project sites
+url: "https://GM-Valcke.github.io" # replace USERNAME
+
+theme: minima
+plugins: []
+exclude: []
