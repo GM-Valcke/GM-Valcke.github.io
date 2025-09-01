@@ -4,6 +4,8 @@ description: A place for my creations
 baseurl: "" # e.g. "/my-repo" for project sites
 url: "https://GM-Valcke.github.io" # replace USERNAME
 
-theme: hacker
-plugins: []
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
 exclude: []
