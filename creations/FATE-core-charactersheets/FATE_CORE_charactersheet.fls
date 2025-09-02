@@ -1,9 +1,9 @@
-PWD /workspaces/GM-Valcke.github.io/creations/FATE-core-character-sheets
+PWD /workspaces/GM-Valcke.github.io/creations/FATE-core-charactersheets
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /workspaces/GM-Valcke.github.io/creations/FATE-core-character-sheets/FATE_CORE_charactersheet.tex
+INPUT /workspaces/GM-Valcke.github.io/creations/FATE-core-charactersheets/FATE_CORE_charactersheet.tex
 OUTPUT FATE_CORE_charactersheet.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls

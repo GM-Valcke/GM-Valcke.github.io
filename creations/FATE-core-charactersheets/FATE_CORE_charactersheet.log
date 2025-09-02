@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.9.2)  2 SEP 2025 16:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.9.2)  2 SEP 2025 21:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/workspaces/GM-Valcke.github.io/creations/FATE-core-character-sheets/FATE_CORE_charactersheet.tex
-(/workspaces/GM-Valcke.github.io/creations/FATE-core-character-sheets/FATE_CORE_charactersheet.tex
+**/workspaces/GM-Valcke.github.io/creations/FATE-core-charactersheets/FATE_CORE_charactersheet.tex
+(/workspaces/GM-Valcke.github.io/creations/FATE-core-charactersheets/FATE_CORE_charactersheet.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -331,14 +331,14 @@ Package rerunfilecheck Info: File `FATE_CORE_charactersheet.out' has not changed
  ) 
 Here is how much of TeX's memory you used:
  9250 strings out of 476106
- 142574 string characters out of 5793934
+ 142571 string characters out of 5793934
  1949975 words of memory out of 5000000
  31176 multiletter control sequences out of 15000+600000
  562633 words of font info for 51 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 75i,12n,79p,319b,612s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,318b,612s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on FATE_CORE_charactersheet.pdf (3 pages, 64909 bytes).
+Output written on FATE_CORE_charactersheet.pdf (3 pages, 64911 bytes).
 PDF statistics:
  104 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
