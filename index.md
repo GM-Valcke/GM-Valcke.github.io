@@ -31,6 +31,4 @@ Below you can find a list of projects that are finished (enough) to be ready for
 
 ## Ready for adoption
 
-Put PDFs and other downloads in the `files/` folder. Example:
-
-- [Character sheet (PDF)](/files/character-sheet.pdf)
+- [FATE CORE Character sheet templates and examples (.tex and .pdf)](/FATE-CORE-charsheets)
