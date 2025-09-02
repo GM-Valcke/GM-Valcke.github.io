@@ -29,8 +29,8 @@ Example characters:
 These were the four cats I used as pregens for secrets of cats:
 Note that I created them while testing and improving the design of the character sheets. There are some slight differences between all these sheets.
 
-[Namer](/files/Pregen-Namer.pdf)
-[Seeker](/files/Pregen-Seeker.pdf)
-[Shaper](/files/Pregen-Shaper.pdf)
-[Warder](/files/Pregen-Warder.pdf)
- [Download the PDF](/files/Pregen-Suki-Seeker.pdf)
+- [Namer](/files/Pregen-Namer.pdf)
+- [Seeker](/files/Pregen-Seeker.pdf)
+- [Shaper](/files/Pregen-Shaper.pdf)
+- [Warder](/files/Pregen-Warder.pdf)
+
