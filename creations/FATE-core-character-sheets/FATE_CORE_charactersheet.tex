@@ -1,0 +1,136 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{tabularx}
+\renewcommand{\arraystretch}{1.4}
+
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref} % Provides PDF form features
+
+\newcommand{\MyTextField}[2][]{%
+  \TextField[borderwidth=0,backgroundcolor={},#1]{#2}%
+}
+
+% Header
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textbf{Fate Core Character Sheets}}
+\fancyhead[C]{Secrets of Cats} %FATE universe or module these character sheets are made for
+\fancyhead[R]{GM Valcke} % If you create your own version please share it with me through valckegm@gmail.com and it will be added to the repo for others to use.
+\renewcommand{\headrulewidth}{0.4pt}
+
+\begin{document}
+
+\subsection*{Identity}
+\begin{tabularx}{\linewidth}{|l|X|}
+\hline
+\textbf{Name (pronouns)} & \MyTextField[name=NamePronouns,width=\linewidth]{}\\ 
+\hline
+\textbf{True name} & \MyTextField[name=TrueName,width=\linewidth]{}\\ 
+\hline
+\textbf{Description} & \MyTextField[multiline=true,name=Description,width=\linewidth, height=2.5cm]{} \\ 
+\hline
+\end{tabularx}
+
+\subsection*{Aspects  \color{white} (character sheet made by GM Valcke)}
+\begin{tabularx}{\linewidth}{|l|X|}
+\hline
+\textbf{High Concept} & \MyTextField[name=HighConcept,width=\linewidth]{}\\ \hline
+\textbf{Trouble} & \MyTextField[name=Trouble,width=\linewidth]{}\\ \hline
+\textbf{Burden(s)} & \MyTextField[multiline=true,name=Burdens,width=\linewidth,height=1.5cm]{}\\ \hline
+\textbf{Other Aspects} & \MyTextField[multiline=true,name=OtherAspects,width=\linewidth,height=2.7cm]{} \\ \hline
+\end{tabularx}
+
+\subsection*{Skills, Stress, and Consequences} % Adapt the skill list to one that suits your game world
+
+\noindent
+\begin{minipage}{0.45\linewidth}
+\begin{tabular}{|l|p{2cm}|}
+\hline
+\multicolumn{2}{|c|}{\textbf{General Skills}} \\ \hline
+Athletics & \MyTextField[name=Athletics,width=\linewidth]{}\\ \hline
+Burglary & \MyTextField[name=Burglary,width=\linewidth]{} \\ \hline
+Deceive & \MyTextField[name=Deceive,width=\linewidth]{}\\ \hline
+Empathy & \MyTextField[name=Empathy,width=\linewidth]{}\\ \hline
+Fight & \MyTextField[name=Fight,width=\linewidth]{}\\ \hline
+Investigate & \MyTextField[name=Investigate,width=\linewidth]{}\\ \hline
+Lore & \MyTextField[name=Lore,width=\linewidth]{}\\ \hline
+Notice & \MyTextField[name=Notice,width=\linewidth]{}\\ \hline
+Physique* & \MyTextField[name=Physique,width=\linewidth]{} \\ \hline
+Provoke & \MyTextField[name=Provoke,width=\linewidth]{} \\ \hline
+Rapport & \MyTextField[name=Rapport,width=\linewidth]{}\\ \hline
+Stealth & \MyTextField[name=Stealth,width=\linewidth]{}\\ \hline
+Territory & \MyTextField[name=Territory,width=\linewidth]{}\\ \hline
+Will* & \MyTextField[name=Will,width=\linewidth]{}\\ \hline
+\end{tabular}
+\end{minipage}
+\hfill
+\begin{minipage}{0.45\linewidth}
+\begin{tabular}{|l|p{2cm}|}
+\hline
+\multicolumn{2}{|c|}{\textbf{Magical Skills}} \\ \hline
+Warding & \MyTextField[name=Warding,width=\linewidth]{} \\ \hline
+Naming & \MyTextField[name=Naming,width=\linewidth]{}\\ \hline
+Shaping & \MyTextField[name=Shaping,width=\linewidth]{}\\ \hline
+Seeking & \MyTextField[name=Seeking,width=\linewidth]{}\\ \hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{tabular}{|l|l|}
+\hline
+\multicolumn{2}{|c|}{\textbf{Stress}} \\ \hline
+Physical (Physique) & 1 \ \ 2 \ \ \textcolor{gray}{3} \ \ \textcolor{gray}{4} \\ \hline
+Mental (Will) & 1 \ \ 2 \ \ \textcolor{gray}{3} \ \ \textcolor{gray}{4} \\ \hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{tabular}{|l|m{5cm}|}
+\hline
+\multicolumn{2}{|c|}{\textbf{Consequences}} \\ \hline 
+Mild (2) & \MyTextField[name=ConsequenceMild,width=\linewidth]{}\\ \hline
+Moderate (4) & \MyTextField[name=ConsequenceModerate,width=\linewidth]{}\\ \hline
+Severe (6) & \MyTextField[name=ConsequenceSevere,width=\linewidth]{}\\ \hline
+\textcolor{gray}{Mild (2)} & \MyTextField[name=ConsequenceMildExtra,width=\linewidth]{}\\ \hline
+\end{tabular}
+\end{minipage}
+
+\vspace{0.5em}
+
+{\small Assign bonuses at character creation: \\ 
+1 skill at Great (+4); 2 skills at Good (+3); 3 at Fair (+2); 4 at Average (+1); rest at Mediocre (+0)\\
+Will and Physique: +1 unlocks $3^{rd}$ stress box; +3 unlocks $4^{th}$ stress box; +5 unlocks extra mild consequence.}
+
+\newpage
+\subsection*{Stunts and Extras}
+\begin{tabular}{|l|m{2cm}|}
+\hline
+\textbf{Refresh} & \MyTextField[name=Refresh,width=\linewidth]{}\\ \hline
+\textbf{Current Fate Points} & \MyTextField[name=CurrentFatePoints,width=\linewidth]{}\\ \hline
+\end{tabular}
+
+\vspace{1.5cm}
+
+\begin{tabularx}{\linewidth}{|l|X|}
+\hline
+\textbf{Stunts} & \MyTextField[multiline=true,name=Stunts,width=\linewidth,height=6cm]{}\\ 
+\hline
+\textbf{Extras} & \MyTextField[multiline=true,name=Extras,width=\linewidth,height=6cm]{} \\ 
+\hline
+\textbf{Notes} & \MyTextField[multiline=true,name=Notes,width=\linewidth,height=10cm]{} \\ 
+\hline
+\end{tabularx}
+
+\newpage
+
+\begin{tabularx}{\linewidth}{|l|X|}
+\hline
+\textbf{Notes} & \MyTextField[multiline=true,name=Notes,width=\linewidth,height=26cm]{} \\ 
+\hline
+\end{tabularx}
+
+
+\end{document}

@@ -1,11 +1,14 @@
 ---
 layout: default
-title: My Creations
+title: Creation log
 ---
 
 # {{ page.title }}
 
-Welcome — this site hosts blog posts and downloadable files (PDFs, zips, game builds).
+Welcome,
+This page contains updates on the projects I'm working on and would love to share. 
+Below you can find a list of projects that are finished (enough) to be ready for adoption. 
+
 
 ## Latest posts
 
@@ -26,7 +29,7 @@ Welcome — this site hosts blog posts and downloadable files (PDFs, zips, game 
   {% endfor %}
 </ul>
 
-## Files
+## Ready for adoption
 
 Put PDFs and other downloads in the `files/` folder. Example:
 
