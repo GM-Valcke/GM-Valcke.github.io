@@ -11,10 +11,20 @@ Welcome — this site hosts blog posts and downloadable files (PDFs, zips, game 
 
 <ul>
   {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%B %e, %Y" }}</li>
+    <li style="margin-bottom: 1.5em;">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <small>{{ post.date | date: "%B %e, %Y" }}</small><br>
+
+      {% if post.image %}
+        <img src="{{ post.image }}" alt="{{ post.title }}" style="max-width:150px; float:left; margin-right:1em;">
+      {% endif %}
+
+      <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+
+      <div style="clear:both;"></div>
+    </li>
   {% endfor %}
 </ul>
-
 
 ## Files
 
