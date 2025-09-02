@@ -18,10 +18,11 @@ Please mention it was based on my sheet and share your creation with me so I can
 I made these sheets when I intended to run the module ['Secrets of cats'](https://evilhat.com/product/secrets-of-cats/). That is what the current base file is made for. A more generic file for FATE Core with the skills from the FATE CORE rulebook will be added later.
 
 The basic .tex file 
-[Dowload the .tex file](/creations/FATE_CORE_charactersheets/FATE_CORE_charactersheet.tex)
+[Download the .tex file](/creations/FATE-core-charactersheets/FATE_CORE_charactersheet.tex)
+
 
 Form-fillable basic pdf (suitable for the secrets of cats module)
-[Download the pdf](/creations/FATE_CORE_charactersheets/FATE_CORE_charactersheet.pdf)
+[Download the pdf](/creations/FATE-core-charactersheets/FATE_CORE_charactersheet.pdf)
 
 
 Example characters:
