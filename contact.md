@@ -1,8 +1,7 @@
-<!-- contact.html -->
 ---
 layout: default
 title: Contact
-permalink: '/contact'
+permalink: '/contact/'
 ---
 
 # Contact Me
