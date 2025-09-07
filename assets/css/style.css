@@ -1,0 +1,103 @@
+/* ----------------------------
+   Reset / base
+---------------------------- */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;  /* ensure full viewport height */
+}
+
+/* ----------------------------
+   Header
+---------------------------- */
+header {
+  background: #222;
+  color: white;
+  padding: 20px 0;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
+
+header h1 {
+  margin-bottom: 5px;
+}
+
+header h2 {
+  margin-top: 0;
+  font-weight: normal;
+  color: #ccc;
+}
+
+#downloads {
+  margin-top: 10px;
+}
+
+.btn {
+  background: #ffcc00;
+  color: #222;
+  padding: 5px 10px;
+  margin-right: 5px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background: #e6b800;
+}
+
+/* ----------------------------
+   Main content
+---------------------------- */
+.container {
+  width: 90%;
+  max-width: 960px;
+  margin: 0 auto;
+  flex: 1;  /* push footer down on short pages */
+}
+
+#main_content {
+  padding: 20px 0;
+}
+
+/* ----------------------------
+   Footer
+---------------------------- */
+.site-footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  opacity: 0;                 /* start hidden */
+  transition: opacity 0.8s ease-in-out;
+  flex-shrink: 0;             /* keep footer at bottom on short pages */
+}
+
+.site-footer a {
+  color: #ffcc00;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
+
+.site-footer.visible {
+  opacity: 1;
+}

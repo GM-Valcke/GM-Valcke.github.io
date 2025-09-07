@@ -32,6 +32,20 @@
       <section id="main_content">
         {{ content }}
       </section>
+
     </div>
+    {% include footer.html %} 
+
+    <script>
+  document.addEventListener("scroll", function () {
+    const footer = document.querySelector(".site-footer");
+    if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 10) {
+      footer.classList.add("visible");
+    } else {
+      footer.classList.remove("visible");
+    }
+  });
+</script>
+
   </body>
 </html>

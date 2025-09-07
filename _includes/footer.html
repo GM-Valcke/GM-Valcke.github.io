@@ -1,0 +1,58 @@
+<footer class="site-footer">
+  <p>
+    © {{ site.title | default: site.github.repository_name }} {{ site.time | date: "%Y" }}
+    · <a href="{{ '/contact/' | relative_url }}">Contact Me</a>
+  </p>
+</footer>
+
+<style>
+  /* Ensure page takes full height */
+  html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Main content grows to push footer down */
+  #main_content {
+    flex: 1;
+  }
+
+  /* Footer styling */
+  .site-footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    opacity: 0;                 /* start hidden */
+    transition: opacity 0.8s ease-in-out;
+    flex-shrink: 0;             /* keep footer at bottom on short pages */
+  }
+
+  .site-footer a {
+    color: #ffcc00;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  .site-footer a:hover {
+    text-decoration: underline;
+  }
+
+  /* visible when scrolled to bottom */
+  .site-footer.visible {
+    opacity: 1;
+  }
+</style>
+
+<script>
+  document.addEventListener("scroll", function () {
+    const footer = document.querySelector(".site-footer");
+    if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 10) {
+      footer.classList.add("visible");
+    } else {
+      footer.classList.remove("visible");
+    }
+  });
+</script>
