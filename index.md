@@ -35,5 +35,5 @@ Below you can find a list of projects that are finished (enough) to be ready for
 
 ## Contact me
 
-<li><a href="contact.md">Contact</a></li>
+[Contact](/contact)
 
