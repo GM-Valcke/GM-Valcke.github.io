@@ -32,3 +32,8 @@ Below you can find a list of projects that are finished (enough) to be ready for
 ## Ready for adoption
 
 - [FATE CORE Character sheet templates and examples (.tex and .pdf)](/FATE-CORE-charsheets)
+
+## Contact me
+
+<li><a href="contact.html">Contact</a></li>
+
