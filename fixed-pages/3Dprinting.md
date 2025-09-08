@@ -4,33 +4,33 @@ title: 3D printing
 permalink: '/3Dprinting/'
 ---
 
-# 3D-printservice op maat – mijn hobby, jouw project  
+# 3D printing service – my hobby, your project  
 
-Ik gebruik mijn passie voor 3D-printen om jou te helpen je ideeën werkelijkheid te maken. Geen grootschalige printfarm, maar een persoonlijke service waarbij we samen kijken hoe jouw project het best tot leven komt.  
+I use my passion for 3D printing to help turn your ideas into reality. Not a large-scale print farm, but a personal service where we work together to bring your project to life.  
 
-## Wat ik voor jou kan doen
-- **Printen van STL-bestanden** die jij aanlevert.  
-- **Ontwerpen en modelleren** van nieuwe objecten op jouw vraag.  
-- **Meedenken** over creatieve en praktische oplossingen.  
+## What I can do for you
+- **Printing STL files** that you provide.  
+- **Designing and modeling** new objects upon request.  
+- **Thinking along with you** about creative and practical solutions.  
 
-## Voor wie?
-Iedereen die een idee heeft, maar geen 3D-printer bij de hand. Ik werk voornamelijk in **regio Leuven**, maar prints kunnen ook **verzonden** worden.  
+## Who is it for?
+Anyone with an idea but without a 3D printer at hand. 
+I'm located near Leuven,BE but shipping options can be discussed.
 
-## Hoe werkt het?
-- Samen bespreken we jouw idee en de mogelijkheden. 
-- Is het haalbaar dan krijg je vooraf een offerte.
-- Voor de start van de print vraag ik 50% voorschot.  
-- Het resterende bedrag betaal je bij ophaling of vlak voor verzending.  
+## How does it work?
+- We discuss your idea and the possibilities.  
+- If feasible, you will receive a quote in advance.  
+- Before printing starts, I ask for a **50% deposit**.  
+- The remaining amount is paid upon pickup or right before shipping.  
 
-## Mogelijke toepassingen
-- **Cadeautjes** en gepersonaliseerde items.  
-- **Reclame en branding**, bijvoorbeeld displays of logo-items. 
-- **vervangen van onderdelen**, ontbrekende stukken uit bordspellen, minis of terrrein voor roleplaying games, ... 
-- **Gebruikstoepassingen** zoals houders, clips of organizers.  
-- **Praktische gadgets**, inclusief integratie van QR-codes of NFC-tags.  
-
+## Possible applications
+- **Gifts** and personalized items.  
+- **Advertising and branding**, such as displays or logo items.  
+- **Replacement parts**, such as missing pieces from board games, minis, or terrain for roleplaying games.  
+- **Utility items** such as holders, clips, or organizers.  
+- **Practical gadgets**, including integration of QR codes or NFC tags.  
 
 ## Contact
 
-Enthousiast om jouw project te starten? 
-Neem [contact](/contact/) op
+Excited to start your project?  
+Get in [touch](/contact/)  

@@ -35,7 +35,8 @@ Below you can find a list of projects that are finished (enough) to be ready for
 
 ## 3D printing service
 
-[3D printing service](/3Dprinting/)
+[English](/3Dprinting/)
+[Nederlands](/3DprintingNL/)
 
 ## Contact me
 
