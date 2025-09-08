@@ -29,9 +29,13 @@ Below you can find a list of projects that are finished (enough) to be ready for
   {% endfor %}
 </ul>
 
-## Ready for adoption
+## Creations ready for adoption
 
 - [FATE CORE Character sheet templates and examples (.tex and .pdf)](/FATE-CORE-charsheets)
+
+## 3D printing service
+
+[3D printing service](/3Dprinting/)
 
 ## Contact me
 
