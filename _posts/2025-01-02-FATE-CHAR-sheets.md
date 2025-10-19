@@ -5,6 +5,7 @@ author: GM Valcke
 date: 2025-09-01 09:00:00 +0000
 permalink: '/FATE-CORE-charsheets'
 tags: [FATE, rpg, secrets of cats, creation, character sheets]
+image: /assets/images/logo-secret-cats.png
 ---
 
 
