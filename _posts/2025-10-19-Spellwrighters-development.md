@@ -6,7 +6,7 @@ author: GM Valcke
 categories: blog
 tags: [Spellwrighters]
 excerpt: "An update on the first GM Valcke game to be completed."
-image: /assets/images/wizards-simple-logo.png
+image: /assets/images/wizard-simple-logo.png
 ---
 
 Spellwrighter's first full version has been completed and playtested this week. 
