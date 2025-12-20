@@ -22,11 +22,11 @@ Please mention it was based on my sheet and share your creation with me so I can
 I made these sheets when I intended to run the module ['Secrets of cats'](https://evilhat.com/product/secrets-of-cats/). That is what the current base file is made for. A more generic file for FATE Core with the skills from the FATE CORE rulebook will be added later.
 
 The basic .tex file 
-[Download the .tex file](/creations/FATE-CORE-charsheets/FATE-CORE-charsheet-template.tex)
+[Download the .tex file](/assets/FATE-CORE-charsheets/FATE-CORE-charsheet-template.tex)
 
 
 Form-fillable basic pdf (suitable for the secrets of cats module)
-[Download the pdf](/creations/FATE-CORE-charsheets/FATE-CORE-charsheet-template.pdf)
+[Download the pdf](/assets/FATE-CORE-charsheets/FATE-CORE-charsheet-template.pdf)
 
 
 Example characters:
@@ -34,8 +34,8 @@ Example characters:
 These were the four cats I used as pregens for secrets of cats:
 Note that I created them while testing and improving the design of the character sheets. There are some slight differences between all these sheets.
 
-- [Namer](/files/Pregen-Namer.pdf)
-- [Seeker](/files/Pregen-Seeker.pdf)
-- [Shaper](/files/Pregen-Shaper.pdf)
-- [Warder](/files/Pregen-Warder.pdf)
+- [Namer](/assets/FATE-CORE-charsheets/Pregen-Namer.pdf)
+- [Seeker](/assets/FATE-CORE-charsheets/Pregen-Seeker.pdf)
+- [Shaper](/assets/FATE-CORE-charsheets/Pregen-Shaper.pdf)
+- [Warder](/assets/FATE-CORE-charsheets/Pregen-Warder.pdf)
 
