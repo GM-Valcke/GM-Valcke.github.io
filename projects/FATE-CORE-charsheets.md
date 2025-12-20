@@ -8,6 +8,7 @@ tags: [FATE, rpg, secrets of cats, creation, character sheets]
 image: /assets/img/logo-secret-cats.png
 ---
 
+{% include image.html url="" image="/FATE-CORE-charsheets/logo-secret-cats.png" %}
 
 Since I couldn't find an easily adapted character sheet for FATE core RPG I decided to make my own. 
 It's programmed in LaTeX but creates an editable pdf so no programming knowledge at all is needed to use these sheets.

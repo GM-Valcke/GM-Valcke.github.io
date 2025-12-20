@@ -22,7 +22,7 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'envelope',  link: 'mailto:mailto:gmvalcke@gmail.com'}
+- {icon: 'envelope',  link: 'mailto:gmvalcke@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
@@ -52,5 +52,5 @@ social:
 
 # Change to true for Disqus comments
 disqus:
-  comments: true
+  comments: false
   disqus_shortname: ''
