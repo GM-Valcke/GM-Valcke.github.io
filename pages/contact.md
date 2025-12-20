@@ -1,9 +1,14 @@
 ---
-layout: page
+layout: default
 title: Contact
-permalink: /contact
+permalink: '/contact/'
 ---
 
-# Contact
+# Contact Me
 
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+You can reach me at:  
+[valckegm@gmail.com](mailto:valckegm@gmail.com)
+
+
+For now you can not find me through social media.
+If any account claims to be mine, please let me know and feel free to report it to the relevant moderation team.
