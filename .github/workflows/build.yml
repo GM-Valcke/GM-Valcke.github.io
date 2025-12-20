@@ -29,11 +29,7 @@ jobs:
           mkdir -p _posts
           for f in _tex/*.tex; do
             name=$(basename "$f" .tex)
-            pandoc "$f" \
-              -f latex \
-              -t markdown \
-              --mathjax \
-              -o "_posts/$name.md"
+            pandoc "$f" -f latex -t gfm+tex_math_dollars --mathjax -o "_posts/$name.md"
           done
 
       - name: Setup Ruby
