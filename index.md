@@ -6,9 +6,20 @@ title: Creation log
 # {{ page.title }}
 
 Welcome,
-This page contains updates on the projects I'm working on and would love to share. 
+This page contains the projects I've completed or those I'm working on and would love to share. 
 Below you can find a list of projects that are finished (enough) to be ready for adoption. 
 
+
+## Creations ready for adoption
+
+- [Spellwrighters](/spellwrighters)
+- [FATE CORE Character sheet templates and examples (.tex and .pdf)](/FATE-CORE-charsheets)
+
+
+## 3D printing service
+
+[English](/3Dprinting/)
+[Nederlands](/3DprintingNL/)
 
 ## Latest posts
 
@@ -28,17 +39,6 @@ Below you can find a list of projects that are finished (enough) to be ready for
     </li>
   {% endfor %}
 </ul>
-
-## Creations ready for adoption
-
-- [Spellwrighters](/spellwrighters)
-- [FATE CORE Character sheet templates and examples (.tex and .pdf)](/FATE-CORE-charsheets)
-
-
-## 3D printing service
-
-[English](/3Dprinting/)
-[Nederlands](/3DprintingNL/)
 
 ## Contact me
 
