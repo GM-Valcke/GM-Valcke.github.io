@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spellwrighters: Development update"
+title: "Spellwrighters: main page"
 date: 2025-12-31 00:00:00 +0000
 author: GM Valcke
 permalink: '/spellwrighters'
@@ -27,6 +27,9 @@ Those will be shared here as well.
 If anyone stumbles across this and has a good way to promote a game about magic, power fantasies and fancy words... Do get in touch. 
 We'd love to brainstorm ideas to get this project in front of many more people's eyes.
 
+## Buy Spellwrighters
+
+(A link to buy the game will appear here when the game is launched. I look forward to that day.)
 
 ## Character sheet
 
@@ -34,7 +37,7 @@ The default Spellwrighters character sheet designed by [@caveblackwork](https://
 - will be added soon
 
 A minimalist print-friendly character sheet for Spellwrighters can be found here: 
-- [minimal character sheet]creations/spellwrighters/char_sheet_minimal)
+- [minimal character sheet](creations/spellwrighters/char_sheet_minimal)
 
 ## Game flow chart
 
