@@ -5,7 +5,7 @@ author: GM Valcke
 date: 2025-09-01 09:00:00 +0000
 permalink: '/FATE-CORE-charsheets'
 tags: [FATE, rpg, secrets of cats, creation, character sheets]
-image: /assets/images/logo-secret-cats.png
+image: /creations/FATE-CORE-charsheets/files/logo-secret-cats.png
 ---
 
 
@@ -34,8 +34,8 @@ Example characters:
 These were the four cats I used as pregens for secrets of cats:
 Note that I created them while testing and improving the design of the character sheets. There are some slight differences between all these sheets.
 
-- [Namer](/files/Pregen-Namer.pdf)
-- [Seeker](/files/Pregen-Seeker.pdf)
-- [Shaper](/files/Pregen-Shaper.pdf)
-- [Warder](/files/Pregen-Warder.pdf)
+- [Namer](creations/FATE-CORE-charsheets/files/Pregen-Namer.pdf)
+- [Seeker](creations/FATE-CORE-charsheets/files/Pregen-Seeker.pdf)
+- [Shaper](creations/FATE-CORE-charsheets/files/Pregen-Shaper.pdf)
+- [Warder](creations/FATE-CORE-charsheets/files/Pregen-Warder.pdf)
 

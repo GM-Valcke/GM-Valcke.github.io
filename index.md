@@ -31,7 +31,9 @@ Below you can find a list of projects that are finished (enough) to be ready for
 
 ## Creations ready for adoption
 
+- [Spellwrighters](/spellwrighters)
 - [FATE CORE Character sheet templates and examples (.tex and .pdf)](/FATE-CORE-charsheets)
+
 
 ## 3D printing service
 
