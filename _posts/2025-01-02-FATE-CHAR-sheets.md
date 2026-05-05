@@ -39,3 +39,6 @@ Note that I created them while testing and improving the design of the character
 - [Shaper](creations/FATE-CORE-charsheets/files/Pregen-Shaper.pdf)
 - [Warder](creations/FATE-CORE-charsheets/files/Pregen-Warder.pdf)
 
+I prefer to let completely new players choose a character on vibes instead of mechanics and besides Whisper not being as old as I imagine him, the AI image below does the job reasonably well. 
+
+<img src="https://gm-valcke.github.io/creations/FATE-CORE-charsheets/FATE-cats-AI-image.png" alt="AI_cats_vibes" width="500">
