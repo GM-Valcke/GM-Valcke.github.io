@@ -15,7 +15,7 @@ Beginnend van de cat and dog fonts
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img src="../assets/3D_portfolio/cat_font.webp" alt="Cat font" style="width: 45%; max-width: 300px;">
-  <img src="../assets/3D_portfolio/dog_font.webp" alt="Dog font" style="width: 45%; max-width: 300px;">
+  <img src="../assets/3D_portfolio/dog_font.png" alt="Dog font" style="width: 45%; max-width: 300px;">
 </div>
 
 
