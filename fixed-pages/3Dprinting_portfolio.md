@@ -14,14 +14,14 @@ Magneetletters gebaseerd op katjes of honden.
 Beginnend van de cat and dog fonts
 
 ![Cat font](../assets/3D_portfolio/cat_font.webp)
-![Dog font](assets/3D_portfolio/dog_font.webp)
+![Dog font](../assets/3D_portfolio/dog_font.webp)
 
 
 Cat letters voor Bluey:
-![Cat letters for Bluey](assets/3D_portfolio/cat_letter_B.jpg)
+![Cat letters for Bluey](../assets/3D_portfolio/cat_letter_B.jpg)
 
 Dog letters for Nala:
-![Dog letters for Nala](assets/3D_portfolio/dog_letter_NALA.jpg)
+![Dog letters for Nala](../assets/3D_portfolio/dog_letter_NALA.jpg)
 
 ## Large Heart ink bottle rack for tattoo studio
 Een nuttig en decoratief stukje voor [cave.blackwork](https://www.instagram.com/caveblackwork/?hl=nl) dat je kan terugvinden in [Hell Leuven](https://helltattooleuven.com/).
