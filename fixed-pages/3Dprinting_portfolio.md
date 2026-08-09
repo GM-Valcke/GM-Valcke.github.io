@@ -13,7 +13,7 @@ De beste plek om enkele eenvoudige 3D print projectjes die ik maakte terug te vi
 Magneetletters gebaseerd op katjes of honden. 
 Beginnend van de cat and dog fonts
 
-![Cat font](assets/3D_portfolio/cat_font.webp)
+![Cat font](../assets/3D_portfolio/cat_font.webp)
 ![Dog font](assets/3D_portfolio/dog_font.webp)
 
 
