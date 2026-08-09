@@ -6,7 +6,7 @@ permalink: '/3Dprinting/'
 
 # 3D printing service – my hobby, your project  
 
-I use my passion for 3D printing to help turn your ideas into reality. Not a large-scale print farm, but a personal service where we work together to bring your project to life.  
+I use my passion for 3D printing to help turn your ideas into reality. Not a large-scale print farm, but a personal hobby that sometimes gets out of hand and can be used to bring your project to life.  
 
 ## What I can do for you
 - **Printing STL files** that you provide.  

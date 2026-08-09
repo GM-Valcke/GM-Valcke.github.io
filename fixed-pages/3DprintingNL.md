@@ -6,7 +6,7 @@ permalink: '/3DprintingNL/'
 
 # 3D-printservice op maat – mijn hobby, jouw project  
 
-Ik gebruik mijn passie voor 3D-printen om jou te helpen je ideeën werkelijkheid te maken. Geen grootschalige printfarm, maar een persoonlijke service waarbij we samen kijken hoe jouw project het best tot leven komt.  
+Ik gebruik mijn passie voor 3D-printen om jou te helpen je ideeën werkelijkheid te maken. Geen grootschalige printfarm, maar een persoonlijke hobby die soms een beetje uit de hand loopt en mogelijk gericht wordt op jouw project.  
 
 ## Wat ik voor jou kan doen
 - **Printen van STL-bestanden** die jij aanlevert.  
