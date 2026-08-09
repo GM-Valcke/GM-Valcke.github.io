@@ -29,7 +29,7 @@ Dog letters for Nala:
 Een nuttig en decoratief stukje voor [cave.blackwork](https://www.instagram.com/caveblackwork/?hl=nl) dat je kan terugvinden in [Hell Leuven](https://helltattooleuven.com/).
 
 
-![Heart for ink](assets/3D_portfolio/heart_ink_holder.jpeg)
+![Heart for ink](assets/3D_portfolio/heart_ink_holder.jpg)
 (betere foto volgt nog hopelijk)
 
 
