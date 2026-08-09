@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3D printing
-permalink: '/3DprintingNL/'
+title: 3D portfolio
+permalink: '/3Dprinting_portfolio/'
 ---
 
 # 3D-projectjes uit het verleden
