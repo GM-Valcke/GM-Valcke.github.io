@@ -19,17 +19,24 @@ Beginnend van de cat and dog fonts
 </div>
 
 
-Cat letters voor Bluey:
-![Cat letters for Bluey](../assets/3D_portfolio/cat_letter_B.jpg)
+Cat letters for Bluey:
+
+<img src="../assets/3D_portfolio/cat_letter_B.jpg"
+     alt="Cat letters for Bluey"
+     style="width: 100%; max-width: 600px; height: auto;">
 
 Dog letters for Nala:
-![Dog letters for Nala](../assets/3D_portfolio/dog_letter_NALA.jpg)
+<img src="../assets/3D_portfolio/dog_letter_NALA.jpg"
+     alt="Dog letters for Nala"
+     style="width: 100%; max-width: 600px; height: auto;">
 
 ## Large Heart ink bottle rack for tattoo studio
 Een nuttig en decoratief stukje voor [cave.blackwork](https://www.instagram.com/caveblackwork/?hl=nl) dat je kan terugvinden in [Hell Leuven](https://helltattooleuven.com/).
 
 
-![Heart for ink](../assets/3D_portfolio/heart_ink_holder.jpg)
+<img src="../assets/3D_portfolio/heart_ink_holder.jpg"
+     alt="Heart_for_ink"
+     style="width: 100%; max-width: 600px; height: auto;">
 (betere foto volgt nog hopelijk)
 
 
