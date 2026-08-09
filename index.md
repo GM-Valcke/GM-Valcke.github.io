@@ -20,6 +20,7 @@ Below you can find a list of projects that are finished (enough) to be ready for
 
 [English](/3Dprinting/)
 [Nederlands](/3DprintingNL/)
+[portfolio](/3Dprinting_portfolio/)
 
 ## Latest posts
 
