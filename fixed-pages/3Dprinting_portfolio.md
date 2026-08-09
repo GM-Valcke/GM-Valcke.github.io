@@ -13,8 +13,10 @@ De beste plek om enkele eenvoudige 3D print projectjes die ik maakte terug te vi
 Magneetletters gebaseerd op katjes of honden. 
 Beginnend van de cat and dog fonts
 
-![Cat font](../assets/3D_portfolio/cat_font.webp)
-![Dog font](../assets/3D_portfolio/dog_font.webp)
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="../assets/3D_portfolio/cat_font.webp" alt="Cat font" style="width: 45%; max-width: 300px;">
+  <img src="../assets/3D_portfolio/dog_font.webp" alt="Dog font" style="width: 45%; max-width: 300px;">
+</div>
 
 
 Cat letters voor Bluey:
