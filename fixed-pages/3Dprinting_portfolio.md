@@ -26,18 +26,38 @@ Cat letters for Bluey:
      style="width: 100%; max-width: 600px; height: auto;">
 
 Dog letters for Nala:
+
 <img src="../assets/3D_portfolio/dog_letter_NALA.jpg"
      alt="Dog letters for Nala"
-     style="width: 100%; max-width: 600px; height: auto;">
+     style="width: 100%; max-width: 600px; height: auto; transform: rotate(-90deg);">
 
 ## Large Heart ink bottle rack for tattoo studio
 Een nuttig en decoratief stukje voor [cave.blackwork](https://www.instagram.com/caveblackwork/?hl=nl) dat je kan terugvinden in [Hell Leuven](https://helltattooleuven.com/).
 
 
-<img src="../assets/3D_portfolio/heart_ink_holder.jpg"
-     alt="Heart_for_ink"
-     style="width: 100%; max-width: 600px; height: auto;">
-(betere foto volgt nog hopelijk)
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+
+  <img src="../assets/3D_portfolio/heart_ink_holder.jpg"
+       alt="Heart ink holder"
+       style="width: 100%; max-width: 280px; height: auto;">
+
+  <img src="../assets/3D_portfolio/heart_ink_holder_demo (1).jpeg"
+       alt="Heart ink holder demo 1"
+       style="width: 100%; max-width: 280px; height: auto;">
+
+  <img src="../assets/3D_portfolio/heart_ink_holder_demo (2).jpeg"
+       alt="Heart ink holder demo 2"
+       style="width: 100%; max-width: 280px; height: auto;">
+
+  <img src="../assets/3D_portfolio/heart_ink_holder_demo (3).jpeg"
+       alt="Heart ink holder demo 3"
+       style="width: 100%; max-width: 280px; height: auto;">
+
+  <img src="../assets/3D_portfolio/heart_ink_holder_demo (4).jpeg"
+       alt="Heart ink holder demo 4"
+       style="width: 100%; max-width: 280px; height: auto;">
+
+</div>
 
 
 ## Contact
